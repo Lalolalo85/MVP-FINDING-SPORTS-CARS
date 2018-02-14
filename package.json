@@ -1,0 +1,25 @@
+{
+  "name": "findingsportscars",
+  "version": "1.0.0",
+  "description": "cars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lalolalo85/MVP-FINDING-SPORTS-CARS.git"
+  },
+  "author": "Luis Avila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lalolalo85/MVP-FINDING-SPORTS-CARS/issues"
+  },
+  "homepage": "https://github.com/Lalolalo85/MVP-FINDING-SPORTS-CARS#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "jquery": "^3.3.1",
+    "mysql": "^2.15.0"
+  }
+}
