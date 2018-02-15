@@ -1,17 +1,17 @@
 
 # MVP-FINDING-SPORTS-CARS
-Finding the original sports or aftermarket cars in Mexico City
+Finding the original sportscars in US.
 ## Sportcars Enthusiast ##
-Sportcars Enthusiasts that want to find an original sportscars or aftermarket cars in Mexico city at a lower price.
+Sportcars Enthusiasts that want to find an original sportscars in US at a lower price.
 
 ## Summary ##
-  The App will find the best sportscars at a lower price by comparing them to dealerships that only have OEM cars or aftermarket cars at a lower price .
+  The App will find the best sportscars at a lower price by comparing them to dealerships that only have OEM cars at a lower price .
 
 ## Problem ##
   There are numerous sportcars that are rebuilt with aftermarket parts that are not OEM meaning Original Equipment Manufacturer so dealerships are selling them as Original even though they are not.
 
 ## Solution ##
-  The App will find the best option on finding an OEM sportscars at dearlerships with either OEM parts or sold at a lower price without the OEM parts.
+  The App will find the best option on finding an OEM sportscars at dearlerships with OEM parts or sold at a lower price without the OEM parts.
 
 ## Quote from You ##
   "Never get tricked in purchasing a sportscar that is not ORIGINAL"
@@ -20,7 +20,7 @@ Sportcars Enthusiasts that want to find an original sportscars or aftermarket ca
   Download the Sportcars app, then the app will give you a search bar to search for the OEM Sportscars that are around your area.
 
 ## Customer Quote ##
-  "The Sportscars app is one of its kind really gives you the best OEM cars or the cheapest aftermarket cars!"
+  "The Sportscars app is one of its kind really gives you the best OEM cars!"
 
 ## Closing and Call to Action ##
-  "Choosing Sportscars App will help you find you dream Original or Aftermarket car"
+  "Choosing Sportscars App will help you find you dream Original car"
