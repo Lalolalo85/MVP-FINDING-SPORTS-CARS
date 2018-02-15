@@ -4,7 +4,7 @@ var password = require('../passwords.js');
 var con = mysql.createConnection({
   host:  "localhost",
   user:  "root",
-  password: "",
+  password: password.mysqlPassword,
   database: "review"
 });
 
