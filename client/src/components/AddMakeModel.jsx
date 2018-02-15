@@ -35,10 +35,11 @@ class AddMakeModel extends React.Component {
 
   render () {
     return (<div>
-      Description: <input onChange={this.updateMake} value={this.state.make}></input>
+      Make: <input onChange={this.updateMake} value={this.state.make}></input>
+    <button onClick={this.add}>Add Make</button>
       <br />
-      Quantity: <input onChange={this.updateModel} value={this.state.model}></input>
-    <button onClick={this.add}>Add Make Model</button>
+      Model: <input onChange={this.updateModel} value={this.state.model}></input>
+    <button onClick={this.add}>Add Model</button>
     </div>);
   }
 }

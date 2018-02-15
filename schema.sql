@@ -6,7 +6,7 @@ USE review;
 
 CREATE TABLE cars (
   id int NOT NULL AUTO_INCREMENT,
-  model integer NOT NULL,
+  model integer NOT NULL,make
   make varchar(50) NOT NULL,
   PRIMARY KEY (ID)
 );
@@ -15,4 +15,7 @@ CREATE TABLE cars (
  *   mysql -u root < schema.sql
  *  to create the database and the tables. */
 
- INSERT INTO cars (model, make) VALUES ("", "")
+ INSERT INTO cars (model, make) VALUES ("Escort", "Ford");
+ INSERT INTO cars (model, make) VALUES ("Supra", "Toyota");
+ INSERT INTO cars (model, make) VALUES ("Silverado", "Chevy");
+ INSERT INTO cars (model, make) VALUES ("Civic", "Honda");
